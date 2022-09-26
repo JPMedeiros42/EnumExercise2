@@ -1,0 +1,16 @@
+C:\Users\peter\source\repos\EnumExercise\EnumExercise\bin\Debug\net5.0\EnumExercise.exe
+C:\Users\peter\source\repos\EnumExercise\EnumExercise\bin\Debug\net5.0\EnumExercise.deps.json
+C:\Users\peter\source\repos\EnumExercise\EnumExercise\bin\Debug\net5.0\EnumExercise.runtimeconfig.json
+C:\Users\peter\source\repos\EnumExercise\EnumExercise\bin\Debug\net5.0\EnumExercise.runtimeconfig.dev.json
+C:\Users\peter\source\repos\EnumExercise\EnumExercise\bin\Debug\net5.0\EnumExercise.dll
+C:\Users\peter\source\repos\EnumExercise\EnumExercise\bin\Debug\net5.0\ref\EnumExercise.dll
+C:\Users\peter\source\repos\EnumExercise\EnumExercise\bin\Debug\net5.0\EnumExercise.pdb
+C:\Users\peter\source\repos\EnumExercise\EnumExercise\obj\Debug\net5.0\EnumExercise.csproj.AssemblyReference.cache
+C:\Users\peter\source\repos\EnumExercise\EnumExercise\obj\Debug\net5.0\EnumExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\source\repos\EnumExercise\EnumExercise\obj\Debug\net5.0\EnumExercise.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\EnumExercise\EnumExercise\obj\Debug\net5.0\EnumExercise.AssemblyInfo.cs
+C:\Users\peter\source\repos\EnumExercise\EnumExercise\obj\Debug\net5.0\EnumExercise.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\EnumExercise\EnumExercise\obj\Debug\net5.0\EnumExercise.dll
+C:\Users\peter\source\repos\EnumExercise\EnumExercise\obj\Debug\net5.0\ref\EnumExercise.dll
+C:\Users\peter\source\repos\EnumExercise\EnumExercise\obj\Debug\net5.0\EnumExercise.pdb
+C:\Users\peter\source\repos\EnumExercise\EnumExercise\obj\Debug\net5.0\EnumExercise.genruntimeconfig.cache
